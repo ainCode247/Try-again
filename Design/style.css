@@ -21,7 +21,7 @@ header{
     justify-content: center;
 }
 .one-ta{
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
     margin-bottom: 100px;
     padding-bottom: 30px;
 }
