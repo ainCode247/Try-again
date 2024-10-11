@@ -77,7 +77,7 @@ p{
     background-color:#FAFAFB;
     margin-left: 100px;
     margin-right: 100px;
-    padding-bottom: 35px;
+    padding-bottom: 100px;
 }
 
 .skh-title > h3{
@@ -103,7 +103,55 @@ p{
     background-color: white;
     padding-left: 90px;
     padding-right: 90px;
+    padding-bottom: 50px;
 }
 .skh-img{
     margin-top: 20px;
+}
+
+.sk-h-two{
+    display: flex;
+    background-color: white;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 50px;
+    align-items: center;
+    
+}
+
+.sk-h-three{
+    display: flex;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 50px;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+
+}
+/* End of another section */
+
+.aim{
+    display: flex;
+    justify-content: center;
+
+}
+.aim-title{
+    font-size: 50px;
+}
+.aim-discribtion{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 35px;
+}
+iframe{
+    width: 1080px;
+    height: 500px;
+}
+.aim-vedio{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
 }
